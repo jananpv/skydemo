@@ -1,7 +1,7 @@
 # skydemo
 skydemo 
 
-Run RPT_URLinfo.php in commad line or in browser
+Run RPT_URLinfo.php in command line or in browser
 
 
 
